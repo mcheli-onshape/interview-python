@@ -1,1 +1,5 @@
 __pycache__
+.venv
+.vscode
+.pytest_cache
+feature_events_small.csv

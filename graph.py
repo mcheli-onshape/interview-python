@@ -15,7 +15,7 @@ class Graph:
 
     def __init__(self) -> None:
         self.vertices: List[Graph.Vertex] = []
-        self.edges: List[Graph.Edge] = []
+        self.edges: List[Graph.Edge] = [] 
 
     # ------------------------------------------------------------------ #
     # ✂️  IMPLEMENT THIS METHOD
